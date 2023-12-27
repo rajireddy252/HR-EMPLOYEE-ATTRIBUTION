@@ -1,4 +1,4 @@
-# HR-EMPLOYEE-ATTRIBUTION
+# HR-EMPLOYEE-ATTRITION
 Completed this project as a part of a value added course by united of professionals
 pbixlink:
 https://drive.google.com/file/d/1edOqaP-WQgZhq9ir87anemxFbyFtL24a/view?usp=drivesdk
